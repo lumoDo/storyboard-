@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  qweViewController.h
 //  object通讯
 //
 //  Created by 杜立广 on 15/12/31.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface qweViewController : UIViewController
 
 @end
-
